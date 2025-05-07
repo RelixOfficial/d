@@ -1,0 +1,13 @@
+{
+  "name": "vercel-webcrack-decode",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "webcrack": "^2.15.1",
+    "multer": "^latest"
+  }
+}
